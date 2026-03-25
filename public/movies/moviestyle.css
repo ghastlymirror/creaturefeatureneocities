@@ -1,0 +1,58 @@
+@font-face {
+font-family: "typewriter";
+src: url("../fonts/typewriter.ttf") format("truetype");
+}
+
+main {background: #FEFBE6;
+  width: 900px; padding:
+  40px; margin: 0 auto;
+  border: 10px double #000000;
+  }
+
+  .subtitle {
+
+  margin-left: 200px;
+}
+
+nav {
+border: 3px double #000000;
+width: 500px;
+
+}
+p, .subtitle {
+    text-align: left;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+p {
+
+  font-size: 20px;
+}
+
+h4, h1, h2, h3, figure {
+  text-align: center;
+}
+
+body {font-family: "typewriter";
+font-size: 16px;
+background-image: url("../images/casettewall.jpg");
+}
+
+
+  a { color: #0000EE;
+    }
+
+    a:visited { color: #551A8B;
+     }
+
+  main {background: #FEFBE6;
+    width: 900px; padding:
+    40px; margin: 0 auto;
+    border: 10px double #000000;
+    }
+
+    

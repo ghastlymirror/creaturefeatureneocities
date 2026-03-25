@@ -1,0 +1,33 @@
+@font-face {
+font-family: "momstypewriter";
+src: url("momstypewriter.ttf") format("truetype");
+}
+
+
+body{
+  text-align: center;
+  background-color: #64c117;
+  font-family: "momstypewriter";
+}
+
+p{
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  margin-inline-start: 1rem;
+}
+
+a:link, {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+
+a:hover {
+  color: black;
+}

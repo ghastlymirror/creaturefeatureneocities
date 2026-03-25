@@ -1,0 +1,215 @@
+@font-face {
+font-family: "momstypewriter";
+src: url("momstypewriter.ttf") format("truetype");
+}
+
+
+html, body {
+  padding:0;
+  margin:0;
+  justify-content: center;
+}
+
+body {
+  background-image: url("images/halloweenwallpaper.jpg");
+  background-repeat:repeat; background-attachment: fixed;
+  font-family: "momstypewriter";
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.flex{
+
+display: flex;
+margin-bottom: 20px;
+justify-content: center;
+
+}
+
+main, aside{
+  margin-right:10px;
+  margin-bottom:10px;
+  text-align: center;
+  }
+
+main, aside, nav, footer{
+  background-color: #64c117;
+}
+
+
+
+.content{
+ border: 10px double;
+ border-radius: 10px;
+
+
+}
+
+
+header {
+  color: white;
+  background-color: black;
+  font-weight: bold;
+  padding: 30px;
+  text-align: center;
+  border: 9px dotted;
+  border-radius: 5px;
+  width: 900px;
+  margin: 20px auto;
+  margin-bottom: 10px;
+}
+
+
+
+ .navigation{
+  border: 10px double;
+justify-content:center;
+text-align: center;
+text-decoration: none;
+display: flex;
+max-width: 900px;
+margin: 20px auto;
+padding: 10px;
+margin-bottom:20px;
+margin-top:5px;
+border-radius: 5px;
+
+font-size: 30px;
+
+
+  }
+
+  .menu {
+    margin-right: 10px;
+    align-items: center;
+    width: 700px;
+
+  }
+
+aside {
+  max-width: 300px;
+  margin-left: 10px;
+  order: 2;
+  border: 10px double;
+  border-radius: 10px;
+}
+
+main {
+  max-width: 100%;
+  width: 700px;
+  margin-left: 5px;
+  border-radius: 10px;
+
+
+
+
+}
+
+
+footer {
+    border: 10px double;
+    text-align:center;
+    max-width: 900px;
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: #62b706;
+    font-size: 20px;
+    justify-content: space-between;
+
+
+
+}
+
+header {
+ text-align: center;
+ border: 5px dotted;
+ border-radius: 5px;
+}
+
+
+
+.updates{
+
+  width: 500px;
+  height: 200px;
+  overflow: auto;
+  text-align: left;
+  margin-bottom: 10px;
+  border: 2px solid;
+  margin: 5px auto;
+  max-width: 100%;
+  line-height: 1.0;
+   word-spacing: 2px
+
+}
+
+.subtitle{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size:16px
+  line-height: 1.8;
+
+}
+
+main p {
+  line-height: 1.6;
+ font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  30px;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+a:link, {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+
+a:hover {
+  color: white;
+}
+
+nav a{
+  text-transform:uppercase;
+  display:inline-block;
+  padding-left:30px;
+}
+
+@media (max-width: 900px) {
+  .flex {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+#statuscafe {
+    padding: .0em;
+    background-color: #f9a890;
+    border: 1px solid midnightblue;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol335.cur), auto !important;} /* End https://www.cursors-4u.com */
