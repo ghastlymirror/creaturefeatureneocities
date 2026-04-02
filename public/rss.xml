@@ -11,16 +11,6 @@
 
 
 <item>
-  <title>Journal Entry: Finally Moved my Old Wordpress Blog</title>
-  <link>https://creaturefeature.neocities.org/journal</link>
-  <description>
-After Months of procrastinating I finally moved my old wordpress blog to a new host</description>
-  <pubDate>Wed, 20 nov 2024 23:43:00 +0100</pubDate>
-</item>
-
-
-
-<item>
   <title>Creature of the Month: Jack Skelington in Christmas Mode</title>
   <link>https://creaturefeature.neocities.org</link>
   <description>
@@ -203,7 +193,13 @@ Finally Cave in And Watched Sinners and here´s what I´ve been up to this month
   <pubDate>Wed, 25 mar 2026 17:43:00 +0100</pubDate>
 </item>
 
-
+<item>
+  <title> Creature of the Month: Jax from The Amazing Digital Circus</title>
+  <link>https://creaturefeature.neocities.org</link>
+  <description>
+April has Now starts with Easter and April Fool´s Day so i´m dedicating this Months to everyone´s favorite Bunny Trickster
+  <pubDate>Thur, 2 apr 2026 17:01:00 +0100</pubDate>
+</item>
 
 </channel>
 </rss>
